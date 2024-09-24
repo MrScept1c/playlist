@@ -1,0 +1,33 @@
+{
+    "billie": {
+        "happier":"CQACAgUAAxkBAAMcZvJP5BzpTBo2p9Mc9i50i88jJYcAAh8HAAK5kDhXnc2h18nhdr02BA",
+        "ocean":"CQACAgIAAxkBAAMnZvJWA5lMMk-2R57ixP91jXjGWA8AAg4DAAJBnhBKyicHe4qsaSE2BA",
+        "bellyache":"CQACAgQAAxkBAAMrZvJW2aadSoD2FIzICNvqnTFLvEsAAmoEAAIkwxhQTfDLgsBQw1g2BA",
+        "everything":"CQACAgIAAxkBAAMtZvJW9x7X3U3avO7phZO3CHjY6KcAAvQOAAJvhjBIYKBqxHY2BiM2BA",
+        "what":"CQACAgIAAxkBAAMvZvJXFgYFTIFNWlz6fOZRzFv6CXkAAqI3AAL28ohJ5JJiTxg1sXk2BA",
+        "getting":"CQACAgEAAxkBAAMxZvJXLh8n3nbsRgK00bHCsKtWFfMAArMBAAJ99QhEco4NiiLxSvM2BA"
+
+    },
+    "adele": {
+        "skyfall":"CQACAgIAAxkBAAM1ZvJXtVoaJOdKp-fGgRAVc97KD6MAAkQFAALC2oBI3CD-hX9ukk02BA",
+        "rolling":"CQACAgIAAxkBAAM3ZvJX2F7S0Av_ZoWGluLEOdW_ZUcAAiAeAALcDehIZ64hg-WApbc2BA"
+    },
+    "Lana_Del_Rey": {
+        "summer":"CQACAgIAAxkBAAM5ZvJYEjYIVFbLo4ds-Vnvc2lCkNIAAmIDAAJQEwhK70mHKQMmnP82BA",
+        "say_yes":"CQACAgIAAxkBAAM7ZvJYMXnIM9oX-bkYDXPiJcNDp6cAArUBAAJ7gWFLy2VG_RCnVzk2BA"
+    },
+    "bruno_Mars": {
+        "grenade":"CQACAgIAAxkBAAM9ZvJYpAwvklgzUUL_0aGgnjuen9cAAgQeAAJKfwhLXyinnEUEWis2BA"
+    },
+    "tom_odell": {
+        "another_love":"CQACAgEAAxkBAAM_ZvJYxrJ2Fb1i28uv2nWX_8bzOZAAAuwCAALSfKlGyt3TBIXR-xE2BA"
+    },
+    "eminem": {
+        "mockingbird":"CQACAgQAAxkBAANBZvJY-BW9Ck-9E82JRPhpCm38e3EAAlgGAAJtJnhQ-CteJudVQRU2BA"
+    },
+    "coldplay": {
+        "a_sky":"CQACAgQAAxkBAANDZvJZL_HMvjiTdDUb-YH34n_yT0gAAg4AA7c2uVK5GkNXY6lIHDYE",
+        "yellow":"CQACAgEAAxkBAANFZvJZPQvvSwWijxIXaqZ85dspaxkAApACAAIP3ilHsehKZ4hf-DM2BA",
+        "viva":"CQACAgIAAxkBAANHZvJZT7ZkDef3uImhx8JrmDf39FsAAqsCAAL-lfBLL895A2ellug2BA"
+    }
+}
