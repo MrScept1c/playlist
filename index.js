@@ -191,8 +191,9 @@ bot.action(['happier', 'ocean', 'bellyache', 'everything', 'what', 'getting'], (
     const data = readPlaylistFromFile();
     const songKey = ctx.match[0]; // This retrieves the callback data (like 'happy', 'ocean', etc.)
     const songFileId = data.billie[songKey]; // Get the corresponding file ID from the songData object
-
-    console.log(songKey);
+   
+    console.log(`${songKey} - ${ctx.from.username ?? ctx.from.first_name}`)
+    console.log(`${songKey} - ${ctx.from.first_name}`);
     if (songFileId) {
         // Send the audio file using the file_id
         return ctx.replyWithAudio(songFileId);
@@ -204,6 +205,9 @@ bot.action(['skyfall', 'rolling'], (ctx) => {
     const data = readPlaylistFromFile();
     const songKey = ctx.match[0]; // This retrieves the callback data (like 'happy', 'ocean', etc.)
     const songFileId = data.adele[songKey]; // Get the corresponding file ID from the songData object
+
+    console.log(`${songKey} - ${ctx.from.username ?? ctx.from.first_name}`)
+    console.log(`${songKey} - ${ctx.from.first_name}`);
 
     console.log(songKey);
     if (songFileId) {
@@ -218,6 +222,9 @@ bot.action(['summer', 'say_yes'], (ctx) => {
     const songKey = ctx.match[0]; // This retrieves the callback data (like 'happy', 'ocean', etc.)
     const songFileId = data.Lana_Del_Rey[songKey]; // Get the corresponding file ID from the songData object
 
+    console.log(`${songKey} - ${ctx.from.username ?? ctx.from.first_name}`)
+    console.log(`${songKey} - ${ctx.from.first_name}`);
+
     console.log(songKey);
     if (songFileId) {
         // Send the audio file using the file_id
@@ -230,6 +237,9 @@ bot.action(['grenade'], (ctx) => {
     const data = readPlaylistFromFile();
     const songKey = ctx.match[0]; // This retrieves the callback data (like 'happy', 'ocean', etc.)
     const songFileId = data.bruno_Mars[songKey]; // Get the corresponding file ID from the songData object
+
+    console.log(`${songKey} - ${ctx.from.username ?? ctx.from.first_name}`)
+    console.log(`${songKey} - ${ctx.from.first_name}`);
 
     console.log(songKey);
     if (songFileId) {
@@ -244,6 +254,9 @@ bot.action(['another_love'], (ctx) => {
     const songKey = ctx.match[0]; // This retrieves the callback data (like 'happy', 'ocean', etc.)
     const songFileId = data.tom_odell[songKey]; // Get the corresponding file ID from the songData object
 
+    console.log(`${songKey} - ${ctx.from.username ?? ctx.from.first_name}`)
+    console.log(`${songKey} - ${ctx.from.first_name}`);
+
     console.log(songKey);
     if (songFileId) {
         // Send the audio file using the file_id
@@ -257,6 +270,9 @@ bot.action(['mockingbird'], (ctx) => {
     const songKey = ctx.match[0]; // This retrieves the callback data (like 'happy', 'ocean', etc.)
     const songFileId = data.eminem[songKey]; // Get the corresponding file ID from the songData object
 
+    console.log(`${songKey} - ${ctx.from.username ?? ctx.from.first_name}`)
+    console.log(`${songKey} - ${ctx.from.first_name}`);
+
     console.log(songKey);
     if (songFileId) {
         // Send the audio file using the file_id
@@ -269,6 +285,9 @@ bot.action(['a_sky', 'yellow', 'viva'], (ctx) => {
     const data = readPlaylistFromFile();
     const songKey = ctx.match[0]; // This retrieves the callback data (like 'happy', 'ocean', etc.)
     const songFileId = data.coldplay[songKey]; // Get the corresponding file ID from the songData object
+
+    console.log(`${songKey} - ${ctx.from.username ?? ctx.from.first_name}`)
+    console.log(`${songKey} - ${ctx.from.first_name}`);
 
     console.log(songKey);
     if (songFileId) {
